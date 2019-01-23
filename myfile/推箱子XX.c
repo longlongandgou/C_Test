@@ -7,7 +7,8 @@
 #include<stdio.h>
 #include<conio.h>
 //#include"map.h"
-#include"/storage/emulated/0/OLD/练习/map.h"
+//由于C4droid的编译环境问题，要写完整的路径
+#include"/storage/emulated/0/C_test/myfile/map.h"
 
 
 int playMap(char m[8][8]);
